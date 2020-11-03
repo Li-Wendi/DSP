@@ -1,2 +1,2 @@
-# DSP-
+# DSP
 Digital Signal Processing Projects
